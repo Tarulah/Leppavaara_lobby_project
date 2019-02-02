@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: fc45fb8aa92b99841b68b1199c6ed115
+timeCreated: 1488872697
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ID100
+    100002: ID108
+    100004: ID114
+    100006: ID120
+    100008: ID18
+    100010: ID26
+    100012: ID34
+    100014: ID42
+    100016: ID50
+    100018: ID58
+    100020: ID66
+    100022: ID74
+    100024: ID92
+    100026: instance_0
+    100028: //RootNode
+    100030: peruna
+    100032: skp_camera_Last_Saved_SketchUp_View
+    400000: ID100
+    400002: ID108
+    400004: ID114
+    400006: ID120
+    400008: ID18
+    400010: ID26
+    400012: ID34
+    400014: ID42
+    400016: ID50
+    400018: ID58
+    400020: ID66
+    400022: ID74
+    400024: ID92
+    400026: instance_0
+    400028: //RootNode
+    400030: peruna
+    400032: skp_camera_Last_Saved_SketchUp_View
+    2300000: ID100
+    2300002: ID108
+    2300004: ID114
+    2300006: ID120
+    2300008: ID18
+    2300010: ID26
+    2300012: ID34
+    2300014: ID42
+    2300016: ID50
+    2300018: ID58
+    2300020: ID66
+    2300022: ID74
+    2300024: ID92
+    2300026: //RootNode
+    2300028: peruna
+    3300000: ID100
+    3300002: ID108
+    3300004: ID114
+    3300006: ID120
+    3300008: ID18
+    3300010: ID26
+    3300012: ID34
+    3300014: ID42
+    3300016: ID50
+    3300018: ID58
+    3300020: ID66
+    3300022: ID74
+    3300024: ID92
+    3300026: //RootNode
+    3300028: peruna
+    4300000: SketchUp
+    4300002: ID92
+    4300004: ID100
+    4300006: ID108
+    4300008: ID114
+    4300010: ID120
+    4300012: peruna
+    4300014: ID18
+    4300016: ID26
+    4300018: ID34
+    4300020: ID42
+    4300022: ID50
+    4300024: ID58
+    4300026: ID66
+    4300028: ID74
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

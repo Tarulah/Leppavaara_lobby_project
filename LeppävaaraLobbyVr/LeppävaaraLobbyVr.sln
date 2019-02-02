@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BAE2DD3F-8F4D-E1B2-DC81-A4E368612314}") = "LeppävaaraLobbyVr", "Assembly-CSharp.csproj", "{AB0B5278-1FEE-65CE-4335-7DAF634C6FFE}"
+EndProject
+Project("{BAE2DD3F-8F4D-E1B2-DC81-A4E368612314}") = "LeppävaaraLobbyVr", "Assembly-CSharp-Editor.csproj", "{0FC50457-511C-BA37-A596-065DCFD07230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0B5278-1FEE-65CE-4335-7DAF634C6FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0B5278-1FEE-65CE-4335-7DAF634C6FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0B5278-1FEE-65CE-4335-7DAF634C6FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0B5278-1FEE-65CE-4335-7DAF634C6FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC50457-511C-BA37-A596-065DCFD07230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC50457-511C-BA37-A596-065DCFD07230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC50457-511C-BA37-A596-065DCFD07230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC50457-511C-BA37-A596-065DCFD07230}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

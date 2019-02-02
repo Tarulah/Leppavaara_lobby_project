@@ -1,0 +1,895 @@
+fileFormatVersion: 2
+guid: 35236449ae1ec1545b640354f6c58960
+timeCreated: 1487319834
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: aularitila
+    100004: Camera
+    100006: Circle
+    100008: Circle.003
+    100010: Circle.004
+    100012: Cube
+    100014: Cube.001
+    100016: Cube.005
+    100018: Cube.007
+    100020: Cube.008
+    100022: Cube.009
+    100024: Cube.010
+    100026: Cube.011
+    100028: Cube.012
+    100030: Cube.013
+    100032: Cube.014
+    100034: Cube.015
+    100036: Cube.016
+    100038: Cube.017
+    100040: Cube.018
+    100042: Cube.019
+    100044: ikkunat3
+    100046: kattolamppu
+    100048: Lamp
+    100050: lattia
+    100052: lattia.001
+    100054: lattia.002
+    100056: Mesh10 Group8 Model
+    100058: Mesh11 Group8 Model
+    100060: Mesh12 Group8 Model
+    100062: Mesh13 Group8 Model
+    100064: Mesh14 Group8 Model
+    100066: Mesh15 Group9 Model
+    100068: Mesh16 Group9 Model
+    100070: Mesh17 Group9 Model
+    100072: Mesh175 Group54 Model
+    100074: Mesh176 Group55 Model
+    100076: Mesh177 Group56 Model
+    100078: Mesh178 Group57 Model
+    100080: Mesh18 Group9 Model
+    100082: Mesh180 Group59 Model
+    100084: Mesh180 Group59 Model.001
+    100086: Mesh180 Group59 Model.002
+    100088: Mesh19 Group9 Model
+    100090: Mesh191 Group61 Model
+    100092: Mesh192 Group61 Model
+    100094: Mesh193 Group61 Model
+    100096: Mesh194 Group61 Model
+    100098: Mesh195 Group61 Model
+    100100: Mesh196 Group61 Model
+    100102: Mesh197 Group61 Model
+    100104: Mesh198 Group61 Model
+    100106: Mesh199 Group61 Model
+    100108: Mesh20 Group9 Model
+    100110: Mesh200 Group61 Model
+    100112: Mesh21 Group10 Model
+    100114: Mesh211 skp642_3 Model
+    100116: Mesh211 skp642_3 Model.001
+    100118: Mesh22 Group10 Model
+    100120: Mesh23 Group10 Model
+    100122: Mesh231 skpDDC0_1 Model
+    100124: Mesh232 skpDDC0_1 Model
+    100126: Mesh233 skpDDC0_1 Model
+    100128: Mesh234 skpDDC0_1 Model
+    100130: Mesh236 skpDDC0_1 Model
+    100132: Mesh237 skpDDC0_1 Model
+    100134: Mesh239 skpDDC0_1 Model
+    100136: Mesh24 Group10 Model
+    100138: Mesh240 skpDDC0_1 Model
+    100140: Mesh243 skpDDC0_1 Model
+    100142: Mesh244 skpDDC0_1 Model
+    100144: Mesh245 skpDDC0_1 Model
+    100146: Mesh25 Group10 Model
+    100148: Mesh26 Group10 Model
+    100150: Mesh263 Model
+    100152: Mesh263 Model.001
+    100154: Mesh263 Model.002
+    100156: Mesh263 Model.004
+    100158: Mesh263 Model.005
+    100160: Mesh263 Model.006
+    100162: Mesh263 Model.007
+    100164: Mesh263 Model.008
+    100166: Mesh263 Model.009
+    100168: Mesh263 Model.010
+    100170: Mesh264 Model
+    100172: Mesh267 Model
+    100174: Mesh27 Group10 Model
+    100176: Mesh277 Model
+    100178: Mesh278 Model
+    100180: Mesh28 Group10 Model
+    100182: Mesh280 Model
+    100184: Mesh281 Model
+    100186: Mesh282 Model
+    100188: Mesh283 Model
+    100190: Mesh284 Model
+    100192: Mesh285 Model
+    100194: Mesh289 Model
+    100196: Mesh29 Group10 Model
+    100198: Mesh294 Model
+    100200: Mesh295 Model
+    100202: Mesh30 Group10 Model
+    100204: Mesh300 Model
+    100206: Mesh301 Model
+    100208: Mesh301 Model.001
+    100210: Mesh301 Model.002
+    100212: Mesh304 Model
+    100214: Mesh323 Model
+    100216: Mesh324 Model
+    100218: Mesh325 Model
+    100220: Mesh326 Model
+    100222: Mesh327 Model
+    100224: Mesh328 Model
+    100226: Mesh329 Model
+    100228: Mesh33 Group13 Model
+    100230: Mesh34 Group14 Model
+    100232: Mesh35 Group15 Model
+    100234: Mesh36 Group16 Model
+    100236: Mesh38 Group18 Model
+    100238: Mesh39 Group19 Model
+    100240: Mesh41 Group21 Model
+    100242: Mesh42 Group22 Model
+    100244: Mesh43 Group23 Model
+    100246: Mesh44 Group24 Model
+    100248: Mesh5 Group3 Model
+    100250: Mesh6 Group3 Model
+    100252: Mesh7 Group6 Model
+    100254: Mesh8 Group7 Model
+    100256: Mesh9 Group8 Model
+    100258: mustatpontot
+    100260: naamakone
+    100262: naamakone-nappi
+    100264: o-poyta
+    100266: o-poyta.001
+    100268: o-poyta.002
+    100270: Plane
+    100272: Plane.001
+    100274: Plane.002
+    100276: Plane.003
+    100278: Plane.005
+    100280: Plane.007
+    100282: Plane.008
+    100284: poytatuoli
+    100286: poytatuolilevea
+    100288: seinat
+    100290: seinat.001
+    100292: SketchUp.000
+    100294: SketchUp.001
+    100296: SketchUp.002
+    100298: SketchUp.004
+    100300: SketchUp.006
+    100302: SketchUp.009
+    100304: SketchUp.010
+    100306: SketchUp.011
+    100308: SketchUp.012
+    100310: SketchUp.013
+    100312: SketchUp.015
+    100314: SketchUp.016
+    100316: skp_camera_Last_Saved_SketchUp_View
+    100318: sohvalevea
+    100320: tolpat
+    100322: tolpat2
+    100324: tv
+    100326: valvontakamera.001
+    100328: kattolamppu.001
+    100330: Plane.006
+    400000: //RootNode
+    400002: aularitila
+    400004: Camera
+    400006: Circle
+    400008: Circle.003
+    400010: Circle.004
+    400012: Cube
+    400014: Cube.001
+    400016: Cube.005
+    400018: Cube.007
+    400020: Cube.008
+    400022: Cube.009
+    400024: Cube.010
+    400026: Cube.011
+    400028: Cube.012
+    400030: Cube.013
+    400032: Cube.014
+    400034: Cube.015
+    400036: Cube.016
+    400038: Cube.017
+    400040: Cube.018
+    400042: Cube.019
+    400044: ikkunat3
+    400046: kattolamppu
+    400048: Lamp
+    400050: lattia
+    400052: lattia.001
+    400054: lattia.002
+    400056: Mesh10 Group8 Model
+    400058: Mesh11 Group8 Model
+    400060: Mesh12 Group8 Model
+    400062: Mesh13 Group8 Model
+    400064: Mesh14 Group8 Model
+    400066: Mesh15 Group9 Model
+    400068: Mesh16 Group9 Model
+    400070: Mesh17 Group9 Model
+    400072: Mesh175 Group54 Model
+    400074: Mesh176 Group55 Model
+    400076: Mesh177 Group56 Model
+    400078: Mesh178 Group57 Model
+    400080: Mesh18 Group9 Model
+    400082: Mesh180 Group59 Model
+    400084: Mesh180 Group59 Model.001
+    400086: Mesh180 Group59 Model.002
+    400088: Mesh19 Group9 Model
+    400090: Mesh191 Group61 Model
+    400092: Mesh192 Group61 Model
+    400094: Mesh193 Group61 Model
+    400096: Mesh194 Group61 Model
+    400098: Mesh195 Group61 Model
+    400100: Mesh196 Group61 Model
+    400102: Mesh197 Group61 Model
+    400104: Mesh198 Group61 Model
+    400106: Mesh199 Group61 Model
+    400108: Mesh20 Group9 Model
+    400110: Mesh200 Group61 Model
+    400112: Mesh21 Group10 Model
+    400114: Mesh211 skp642_3 Model
+    400116: Mesh211 skp642_3 Model.001
+    400118: Mesh22 Group10 Model
+    400120: Mesh23 Group10 Model
+    400122: Mesh231 skpDDC0_1 Model
+    400124: Mesh232 skpDDC0_1 Model
+    400126: Mesh233 skpDDC0_1 Model
+    400128: Mesh234 skpDDC0_1 Model
+    400130: Mesh236 skpDDC0_1 Model
+    400132: Mesh237 skpDDC0_1 Model
+    400134: Mesh239 skpDDC0_1 Model
+    400136: Mesh24 Group10 Model
+    400138: Mesh240 skpDDC0_1 Model
+    400140: Mesh243 skpDDC0_1 Model
+    400142: Mesh244 skpDDC0_1 Model
+    400144: Mesh245 skpDDC0_1 Model
+    400146: Mesh25 Group10 Model
+    400148: Mesh26 Group10 Model
+    400150: Mesh263 Model
+    400152: Mesh263 Model.001
+    400154: Mesh263 Model.002
+    400156: Mesh263 Model.004
+    400158: Mesh263 Model.005
+    400160: Mesh263 Model.006
+    400162: Mesh263 Model.007
+    400164: Mesh263 Model.008
+    400166: Mesh263 Model.009
+    400168: Mesh263 Model.010
+    400170: Mesh264 Model
+    400172: Mesh267 Model
+    400174: Mesh27 Group10 Model
+    400176: Mesh277 Model
+    400178: Mesh278 Model
+    400180: Mesh28 Group10 Model
+    400182: Mesh280 Model
+    400184: Mesh281 Model
+    400186: Mesh282 Model
+    400188: Mesh283 Model
+    400190: Mesh284 Model
+    400192: Mesh285 Model
+    400194: Mesh289 Model
+    400196: Mesh29 Group10 Model
+    400198: Mesh294 Model
+    400200: Mesh295 Model
+    400202: Mesh30 Group10 Model
+    400204: Mesh300 Model
+    400206: Mesh301 Model
+    400208: Mesh301 Model.001
+    400210: Mesh301 Model.002
+    400212: Mesh304 Model
+    400214: Mesh323 Model
+    400216: Mesh324 Model
+    400218: Mesh325 Model
+    400220: Mesh326 Model
+    400222: Mesh327 Model
+    400224: Mesh328 Model
+    400226: Mesh329 Model
+    400228: Mesh33 Group13 Model
+    400230: Mesh34 Group14 Model
+    400232: Mesh35 Group15 Model
+    400234: Mesh36 Group16 Model
+    400236: Mesh38 Group18 Model
+    400238: Mesh39 Group19 Model
+    400240: Mesh41 Group21 Model
+    400242: Mesh42 Group22 Model
+    400244: Mesh43 Group23 Model
+    400246: Mesh44 Group24 Model
+    400248: Mesh5 Group3 Model
+    400250: Mesh6 Group3 Model
+    400252: Mesh7 Group6 Model
+    400254: Mesh8 Group7 Model
+    400256: Mesh9 Group8 Model
+    400258: mustatpontot
+    400260: naamakone
+    400262: naamakone-nappi
+    400264: o-poyta
+    400266: o-poyta.001
+    400268: o-poyta.002
+    400270: Plane
+    400272: Plane.001
+    400274: Plane.002
+    400276: Plane.003
+    400278: Plane.005
+    400280: Plane.007
+    400282: Plane.008
+    400284: poytatuoli
+    400286: poytatuolilevea
+    400288: seinat
+    400290: seinat.001
+    400292: SketchUp.000
+    400294: SketchUp.001
+    400296: SketchUp.002
+    400298: SketchUp.004
+    400300: SketchUp.006
+    400302: SketchUp.009
+    400304: SketchUp.010
+    400306: SketchUp.011
+    400308: SketchUp.012
+    400310: SketchUp.013
+    400312: SketchUp.015
+    400314: SketchUp.016
+    400316: skp_camera_Last_Saved_SketchUp_View
+    400318: sohvalevea
+    400320: tolpat
+    400322: tolpat2
+    400324: tv
+    400326: valvontakamera.001
+    400328: kattolamppu.001
+    400330: Plane.006
+    2300000: aularitila
+    2300002: Circle
+    2300004: Circle.003
+    2300006: Circle.004
+    2300008: Cube
+    2300010: Cube.001
+    2300012: Cube.005
+    2300014: Cube.007
+    2300016: Cube.008
+    2300018: Cube.009
+    2300020: Cube.010
+    2300022: Cube.011
+    2300024: Cube.012
+    2300026: Cube.013
+    2300028: Cube.014
+    2300030: Cube.015
+    2300032: Cube.016
+    2300034: Cube.017
+    2300036: Cube.018
+    2300038: Cube.019
+    2300040: ikkunat3
+    2300042: kattolamppu
+    2300044: lattia
+    2300046: lattia.001
+    2300048: lattia.002
+    2300050: Mesh10 Group8 Model
+    2300052: Mesh11 Group8 Model
+    2300054: Mesh12 Group8 Model
+    2300056: Mesh13 Group8 Model
+    2300058: Mesh14 Group8 Model
+    2300060: Mesh15 Group9 Model
+    2300062: Mesh16 Group9 Model
+    2300064: Mesh17 Group9 Model
+    2300066: Mesh175 Group54 Model
+    2300068: Mesh176 Group55 Model
+    2300070: Mesh177 Group56 Model
+    2300072: Mesh178 Group57 Model
+    2300074: Mesh18 Group9 Model
+    2300076: Mesh180 Group59 Model
+    2300078: Mesh180 Group59 Model.001
+    2300080: Mesh180 Group59 Model.002
+    2300082: Mesh19 Group9 Model
+    2300084: Mesh191 Group61 Model
+    2300086: Mesh192 Group61 Model
+    2300088: Mesh193 Group61 Model
+    2300090: Mesh194 Group61 Model
+    2300092: Mesh195 Group61 Model
+    2300094: Mesh196 Group61 Model
+    2300096: Mesh197 Group61 Model
+    2300098: Mesh198 Group61 Model
+    2300100: Mesh199 Group61 Model
+    2300102: Mesh20 Group9 Model
+    2300104: Mesh200 Group61 Model
+    2300106: Mesh21 Group10 Model
+    2300108: Mesh211 skp642_3 Model
+    2300110: Mesh211 skp642_3 Model.001
+    2300112: Mesh22 Group10 Model
+    2300114: Mesh23 Group10 Model
+    2300116: Mesh231 skpDDC0_1 Model
+    2300118: Mesh232 skpDDC0_1 Model
+    2300120: Mesh233 skpDDC0_1 Model
+    2300122: Mesh234 skpDDC0_1 Model
+    2300124: Mesh236 skpDDC0_1 Model
+    2300126: Mesh237 skpDDC0_1 Model
+    2300128: Mesh239 skpDDC0_1 Model
+    2300130: Mesh24 Group10 Model
+    2300132: Mesh240 skpDDC0_1 Model
+    2300134: Mesh243 skpDDC0_1 Model
+    2300136: Mesh244 skpDDC0_1 Model
+    2300138: Mesh245 skpDDC0_1 Model
+    2300140: Mesh25 Group10 Model
+    2300142: Mesh26 Group10 Model
+    2300144: Mesh263 Model
+    2300146: Mesh263 Model.001
+    2300148: Mesh263 Model.002
+    2300150: Mesh263 Model.004
+    2300152: Mesh263 Model.005
+    2300154: Mesh263 Model.006
+    2300156: Mesh263 Model.007
+    2300158: Mesh263 Model.008
+    2300160: Mesh263 Model.009
+    2300162: Mesh263 Model.010
+    2300164: Mesh264 Model
+    2300166: Mesh267 Model
+    2300168: Mesh27 Group10 Model
+    2300170: Mesh277 Model
+    2300172: Mesh278 Model
+    2300174: Mesh28 Group10 Model
+    2300176: Mesh280 Model
+    2300178: Mesh281 Model
+    2300180: Mesh282 Model
+    2300182: Mesh283 Model
+    2300184: Mesh284 Model
+    2300186: Mesh285 Model
+    2300188: Mesh289 Model
+    2300190: Mesh29 Group10 Model
+    2300192: Mesh294 Model
+    2300194: Mesh295 Model
+    2300196: Mesh30 Group10 Model
+    2300198: Mesh300 Model
+    2300200: Mesh301 Model
+    2300202: Mesh301 Model.001
+    2300204: Mesh301 Model.002
+    2300206: Mesh304 Model
+    2300208: Mesh323 Model
+    2300210: Mesh324 Model
+    2300212: Mesh325 Model
+    2300214: Mesh326 Model
+    2300216: Mesh327 Model
+    2300218: Mesh328 Model
+    2300220: Mesh329 Model
+    2300222: Mesh33 Group13 Model
+    2300224: Mesh34 Group14 Model
+    2300226: Mesh35 Group15 Model
+    2300228: Mesh36 Group16 Model
+    2300230: Mesh38 Group18 Model
+    2300232: Mesh39 Group19 Model
+    2300234: Mesh41 Group21 Model
+    2300236: Mesh42 Group22 Model
+    2300238: Mesh43 Group23 Model
+    2300240: Mesh44 Group24 Model
+    2300242: Mesh5 Group3 Model
+    2300244: Mesh6 Group3 Model
+    2300246: Mesh7 Group6 Model
+    2300248: Mesh8 Group7 Model
+    2300250: Mesh9 Group8 Model
+    2300252: mustatpontot
+    2300254: naamakone
+    2300256: naamakone-nappi
+    2300258: o-poyta
+    2300260: o-poyta.001
+    2300262: o-poyta.002
+    2300264: Plane
+    2300266: Plane.001
+    2300268: Plane.002
+    2300270: Plane.003
+    2300272: Plane.005
+    2300274: Plane.007
+    2300276: Plane.008
+    2300278: poytatuoli
+    2300280: poytatuolilevea
+    2300282: seinat
+    2300284: seinat.001
+    2300286: SketchUp.000
+    2300288: SketchUp.001
+    2300290: SketchUp.002
+    2300292: SketchUp.004
+    2300294: SketchUp.006
+    2300296: SketchUp.009
+    2300298: SketchUp.010
+    2300300: SketchUp.011
+    2300302: SketchUp.012
+    2300304: SketchUp.013
+    2300306: SketchUp.015
+    2300308: SketchUp.016
+    2300310: sohvalevea
+    2300312: tolpat
+    2300314: tolpat2
+    2300316: tv
+    2300318: valvontakamera.001
+    2300320: kattolamppu.001
+    2300322: Plane.006
+    2300324: //RootNode
+    3300000: aularitila
+    3300002: Circle
+    3300004: Circle.003
+    3300006: Circle.004
+    3300008: Cube
+    3300010: Cube.001
+    3300012: Cube.005
+    3300014: Cube.007
+    3300016: Cube.008
+    3300018: Cube.009
+    3300020: Cube.010
+    3300022: Cube.011
+    3300024: Cube.012
+    3300026: Cube.013
+    3300028: Cube.014
+    3300030: Cube.015
+    3300032: Cube.016
+    3300034: Cube.017
+    3300036: Cube.018
+    3300038: Cube.019
+    3300040: ikkunat3
+    3300042: kattolamppu
+    3300044: lattia
+    3300046: lattia.001
+    3300048: lattia.002
+    3300050: Mesh10 Group8 Model
+    3300052: Mesh11 Group8 Model
+    3300054: Mesh12 Group8 Model
+    3300056: Mesh13 Group8 Model
+    3300058: Mesh14 Group8 Model
+    3300060: Mesh15 Group9 Model
+    3300062: Mesh16 Group9 Model
+    3300064: Mesh17 Group9 Model
+    3300066: Mesh175 Group54 Model
+    3300068: Mesh176 Group55 Model
+    3300070: Mesh177 Group56 Model
+    3300072: Mesh178 Group57 Model
+    3300074: Mesh18 Group9 Model
+    3300076: Mesh180 Group59 Model
+    3300078: Mesh180 Group59 Model.001
+    3300080: Mesh180 Group59 Model.002
+    3300082: Mesh19 Group9 Model
+    3300084: Mesh191 Group61 Model
+    3300086: Mesh192 Group61 Model
+    3300088: Mesh193 Group61 Model
+    3300090: Mesh194 Group61 Model
+    3300092: Mesh195 Group61 Model
+    3300094: Mesh196 Group61 Model
+    3300096: Mesh197 Group61 Model
+    3300098: Mesh198 Group61 Model
+    3300100: Mesh199 Group61 Model
+    3300102: Mesh20 Group9 Model
+    3300104: Mesh200 Group61 Model
+    3300106: Mesh21 Group10 Model
+    3300108: Mesh211 skp642_3 Model
+    3300110: Mesh211 skp642_3 Model.001
+    3300112: Mesh22 Group10 Model
+    3300114: Mesh23 Group10 Model
+    3300116: Mesh231 skpDDC0_1 Model
+    3300118: Mesh232 skpDDC0_1 Model
+    3300120: Mesh233 skpDDC0_1 Model
+    3300122: Mesh234 skpDDC0_1 Model
+    3300124: Mesh236 skpDDC0_1 Model
+    3300126: Mesh237 skpDDC0_1 Model
+    3300128: Mesh239 skpDDC0_1 Model
+    3300130: Mesh24 Group10 Model
+    3300132: Mesh240 skpDDC0_1 Model
+    3300134: Mesh243 skpDDC0_1 Model
+    3300136: Mesh244 skpDDC0_1 Model
+    3300138: Mesh245 skpDDC0_1 Model
+    3300140: Mesh25 Group10 Model
+    3300142: Mesh26 Group10 Model
+    3300144: Mesh263 Model
+    3300146: Mesh263 Model.001
+    3300148: Mesh263 Model.002
+    3300150: Mesh263 Model.004
+    3300152: Mesh263 Model.005
+    3300154: Mesh263 Model.006
+    3300156: Mesh263 Model.007
+    3300158: Mesh263 Model.008
+    3300160: Mesh263 Model.009
+    3300162: Mesh263 Model.010
+    3300164: Mesh264 Model
+    3300166: Mesh267 Model
+    3300168: Mesh27 Group10 Model
+    3300170: Mesh277 Model
+    3300172: Mesh278 Model
+    3300174: Mesh28 Group10 Model
+    3300176: Mesh280 Model
+    3300178: Mesh281 Model
+    3300180: Mesh282 Model
+    3300182: Mesh283 Model
+    3300184: Mesh284 Model
+    3300186: Mesh285 Model
+    3300188: Mesh289 Model
+    3300190: Mesh29 Group10 Model
+    3300192: Mesh294 Model
+    3300194: Mesh295 Model
+    3300196: Mesh30 Group10 Model
+    3300198: Mesh300 Model
+    3300200: Mesh301 Model
+    3300202: Mesh301 Model.001
+    3300204: Mesh301 Model.002
+    3300206: Mesh304 Model
+    3300208: Mesh323 Model
+    3300210: Mesh324 Model
+    3300212: Mesh325 Model
+    3300214: Mesh326 Model
+    3300216: Mesh327 Model
+    3300218: Mesh328 Model
+    3300220: Mesh329 Model
+    3300222: Mesh33 Group13 Model
+    3300224: Mesh34 Group14 Model
+    3300226: Mesh35 Group15 Model
+    3300228: Mesh36 Group16 Model
+    3300230: Mesh38 Group18 Model
+    3300232: Mesh39 Group19 Model
+    3300234: Mesh41 Group21 Model
+    3300236: Mesh42 Group22 Model
+    3300238: Mesh43 Group23 Model
+    3300240: Mesh44 Group24 Model
+    3300242: Mesh5 Group3 Model
+    3300244: Mesh6 Group3 Model
+    3300246: Mesh7 Group6 Model
+    3300248: Mesh8 Group7 Model
+    3300250: Mesh9 Group8 Model
+    3300252: mustatpontot
+    3300254: naamakone
+    3300256: naamakone-nappi
+    3300258: o-poyta
+    3300260: o-poyta.001
+    3300262: o-poyta.002
+    3300264: Plane
+    3300266: Plane.001
+    3300268: Plane.002
+    3300270: Plane.003
+    3300272: Plane.005
+    3300274: Plane.007
+    3300276: Plane.008
+    3300278: poytatuoli
+    3300280: poytatuolilevea
+    3300282: seinat
+    3300284: seinat.001
+    3300286: SketchUp.000
+    3300288: SketchUp.001
+    3300290: SketchUp.002
+    3300292: SketchUp.004
+    3300294: SketchUp.006
+    3300296: SketchUp.009
+    3300298: SketchUp.010
+    3300300: SketchUp.011
+    3300302: SketchUp.012
+    3300304: SketchUp.013
+    3300306: SketchUp.015
+    3300308: SketchUp.016
+    3300310: sohvalevea
+    3300312: tolpat
+    3300314: tolpat2
+    3300316: tv
+    3300318: valvontakamera.001
+    3300320: kattolamppu.001
+    3300322: Plane.006
+    3300324: //RootNode
+    4300000: Cube.001
+    4300002: Mesh244 skpDDC0_1 Model
+    4300004: Mesh7 Group6 Model
+    4300006: Mesh26 Group10 Model
+    4300008: Mesh177 Group56 Model
+    4300010: Mesh277 Model
+    4300012: Mesh14 Group8 Model
+    4300014: Mesh33 Group13 Model
+    4300016: Mesh194 Group61 Model
+    4300018: Mesh9 Group8 Model
+    4300020: Mesh326 Model
+    4300022: Mesh285 Model
+    4300024: Mesh304 Model
+    4300026: Mesh25 Group10 Model
+    4300028: Mesh294 Model
+    4300030: Mesh323 Model
+    4300032: Mesh198 Group61 Model
+    4300034: Mesh36 Group16 Model
+    4300036: Mesh5 Group3 Model
+    4300038: sohvalevea
+    4300040: Mesh6 Group3 Model
+    4300042: Mesh20 Group9 Model
+    4300044: Mesh23 Group10 Model
+    4300046: Mesh192 Group61 Model
+    4300048: Mesh178 Group57 Model
+    4300050: Mesh176 Group55 Model
+    4300052: Mesh329 Model
+    4300054: Mesh239 skpDDC0_1 Model
+    4300056: Mesh43 Group23 Model
+    4300058: Mesh8 Group7 Model
+    4300060: Mesh18 Group9 Model
+    4300062: Mesh16 Group9 Model
+    4300064: Mesh300 Model
+    4300066: Mesh231 skpDDC0_1 Model
+    4300068: Mesh22 Group10 Model
+    4300070: Mesh282 Model
+    4300072: Mesh19 Group9 Model
+    4300074: Mesh191 Group61 Model
+    4300076: Mesh245 skpDDC0_1 Model
+    4300078: Mesh42 Group22 Model
+    4300080: Mesh232 skpDDC0_1 Model
+    4300082: Mesh175 Group54 Model
+    4300084: Mesh15 Group9 Model
+    4300086: Mesh243 skpDDC0_1 Model
+    4300088: Mesh193 Group61 Model
+    4300090: Mesh21 Group10 Model
+    4300092: Mesh278 Model
+    4300094: Mesh325 Model
+    4300096: Mesh284 Model
+    4300098: Mesh44 Group24 Model
+    4300100: Mesh267 Model
+    4300102: Mesh327 Model
+    4300104: Mesh10 Group8 Model
+    4300106: poytatuolilevea
+    4300108: Mesh180 Group59 Model
+    4300110: Mesh27 Group10 Model
+    4300112: Mesh38 Group18 Model
+    4300114: Mesh29 Group10 Model
+    4300116: poytatuoli
+    4300118: Mesh263 Model
+    4300120: Mesh295 Model
+    4300122: Mesh237 skpDDC0_1 Model
+    4300124: Mesh264 Model
+    4300126: Mesh195 Group61 Model
+    4300128: Mesh13 Group8 Model
+    4300130: Mesh234 skpDDC0_1 Model
+    4300132: tolpat2
+    4300134: Mesh280 Model
+    4300136: Mesh328 Model
+    4300138: Mesh281 Model
+    4300140: Mesh28 Group10 Model
+    4300142: Mesh196 Group61 Model
+    4300144: Mesh236 skpDDC0_1 Model
+    4300146: Mesh240 skpDDC0_1 Model
+    4300148: Mesh41 Group21 Model
+    4300150: Mesh283 Model
+    4300152: Mesh233 skpDDC0_1 Model
+    4300154: Mesh17 Group9 Model
+    4300156: Mesh197 Group61 Model
+    4300158: Mesh39 Group19 Model
+    4300160: Mesh12 Group8 Model
+    4300162: Mesh301 Model
+    4300164: Plane.005
+    4300166: Mesh324 Model
+    4300168: Mesh24 Group10 Model
+    4300170: Mesh211 skp642_3 Model
+    4300172: Mesh35 Group15 Model
+    4300174: Mesh34 Group14 Model
+    4300176: Mesh30 Group10 Model
+    4300178: Mesh11 Group8 Model
+    4300180: Mesh200 Group61 Model
+    4300182: Mesh289 Model
+    4300184: Mesh199 Group61 Model
+    4300186: lattia
+    4300188: Mesh263 Model.001
+    4300190: aularitila
+    4300192: tolpat
+    4300194: Plane
+    4300196: seinat
+    4300198: Mesh263 Model.005
+    4300200: Mesh263 Model.006
+    4300202: Mesh263 Model.007
+    4300204: mustatpontot
+    4300206: Mesh263 Model.009
+    4300208: Mesh263 Model.010
+    4300210: SketchUp.012
+    4300212: o-poyta
+    4300214: SketchUp.002
+    4300216: SketchUp.004
+    4300218: SketchUp.006
+    4300220: SketchUp.009
+    4300222: SketchUp.010
+    4300224: SketchUp.011
+    4300226: SketchUp.013
+    4300228: SketchUp.015
+    4300230: SketchUp.016
+    4300232: lattia.002
+    4300234: tv
+    4300236: lattia.001
+    4300238: Mesh180 Group59 Model.001
+    4300240: Mesh180 Group59 Model.002
+    4300242: Mesh211 skp642_3 Model.001
+    4300244: o-poyta.001
+    4300246: o-poyta.002
+    4300248: SketchUp.000
+    4300250: SketchUp.001
+    4300252: seinat.001
+    4300254: Plane.001
+    4300256: Circle
+    4300258: Mesh263 Model.002
+    4300260: Plane.002
+    4300262: Mesh301 Model.001
+    4300264: Mesh301 Model.002
+    4300266: Plane.003
+    4300268: Cube.005
+    4300270: Cube.007
+    4300272: Cube.008
+    4300274: Cube.009
+    4300276: Cube.010
+    4300278: Cube.011
+    4300280: Cube.012
+    4300282: Cube.013
+    4300284: Cube.014
+    4300286: Cube.015
+    4300288: Cube.016
+    4300290: Cube.017
+    4300292: Cube.018
+    4300294: Cube.019
+    4300296: Plane.007
+    4300298: naamakone
+    4300300: Mesh263 Model.004
+    4300302: Mesh263 Model.008
+    4300304: kattolamppu
+    4300306: valvontakamera.001
+    4300308: ikkunat3
+    4300310: Plane.008
+    4300312: Circle.003
+    4300314: Circle.004
+    4300316: naamakone-nappi
+    4300318: Cube
+    4300320: kattolamppu.001
+    4300322: Plane.006
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
